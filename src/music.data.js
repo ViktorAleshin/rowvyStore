@@ -1,0 +1,42 @@
+export const musics = [
+    {
+        id: 1,
+        name: 'Hypnotis',
+        author: '1rowvy',
+        image: './Pic/hypnotise.jpg',
+        duration: '01:13',
+        genre: 'Supertrap',
+    },
+    {
+        id: 2,
+        name: 'Sarafan',
+        author: '1rowvy x adobebeatz x mouleen',
+        image: './Pic/sarafan.jpg',
+        duration: '01:20',
+        genre: 'Drill',
+    },
+    {
+        id: 3,
+        name: 'Next',
+        author: '1rowvy + @1letdose + @prodbyanthony',
+        image: './Pic/next.jpg',
+        duration: '04:19',
+        genre: 'RNB',
+    },
+    {
+        id: 4,
+        name: 'Stoned',
+        author: '1rowvy',
+        image: './Pic/stoned.jpg',
+        duration: '02:33',
+        genre: 'Trap',
+    },
+    {
+        id: 5,
+        name: 'Behind',
+        author: '1rowvy x @sweetiehshuds',
+        image: './Pic/behind.jpg',
+        duration: '02:44',
+        genre: 'Supertrap',
+    },
+]
